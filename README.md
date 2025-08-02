@@ -1,5 +1,6 @@
-# Projeto Exemplo
+# Cod Zombies - Shadows of Evil - Symbol Tracker
 
-Arquivo grande para download:
+A Pen created on CodePen.
 
-[Download do arquivo no Google Drive](https://drive.google.com/file/d/1p0o7jHpzNb_E5gH4SRNcYa44-edyRDvj/view?usp=sharing)
+Original URL: [https://codepen.io/lotsofcode/pen/dMJeXR](https://codepen.io/lotsofcode/pen/dMJeXR).
+
